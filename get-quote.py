@@ -10,4 +10,3 @@ def primary():
   print(quotes[rnd])
 if __name__== "__main__":
   primary()
-
